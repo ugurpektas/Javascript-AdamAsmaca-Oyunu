@@ -21,9 +21,9 @@ body {
     stroke: #fff;
     stroke-width: 4px;
 }
-/* .item {
+.item {
     display: none;
-} */
+}
 #wrong-letters {
     position: absolute;
     top: 30px;
